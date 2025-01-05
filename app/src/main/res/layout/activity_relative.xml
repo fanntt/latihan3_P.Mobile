@@ -59,7 +59,7 @@
         android:layout_marginStart="80sp"
         android:layout_marginTop="5dp"
         android:fontFamily="monospace"
-        android:text="NIM : 2301092021"
+        android:text="NIM : 2301092034"
         tools:layout_editor_absoluteX="63dp"
         tools:layout_editor_absoluteY="193dp" />
 
@@ -72,7 +72,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="80sp"
         android:fontFamily="monospace"
-        android:text="Nama: Irfan Aria Putra"
+        android:text="Nama: Thilal Said Zaidan"
         tools:layout_editor_absoluteX="63dp"
         tools:layout_editor_absoluteY="164dp" />
 
